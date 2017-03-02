@@ -48,7 +48,7 @@ var CSS = {
         EDITSECTION: 'a.editing_section',
         EDITSECTIONICON: 'a.editing_section img',
         EDITSHUFFLEQUESTIONSACTION: 'input.cm-edit-action[data-action]',
-        EDITSHUFFLEAREA: '.instanceshufflequestions .shuffle-progress',
+        EDITSHUFFLEAREA: '.instanceshufflequestions .shuffle-progress .shuffle-help-span',
         HIDE: 'a.editing_hide',
         HIGHLIGHT: 'a.editing_highlight',
         INSTANCENAME: 'span.instancename',
